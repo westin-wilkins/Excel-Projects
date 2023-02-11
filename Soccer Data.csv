@@ -1,0 +1,382 @@
+﻿HomeTeam,AwayTeam,FTHG,FTAG,,,
+Column1,Column2,Column3,Column4,,Home Teams ,Away Teams 
+La Coruna,Eibar,2,1,,La Coruna,Lost
+Malaga,Osasuna,1,1,,Tie,Tie
+Barcelona,Betis,6,2,,Barcelona,Lost
+Granada,Villarreal,1,1,,Tie,Tie
+Sevilla,Espanol,6,4,,Sevilla,Lost
+Ath Madrid,Alaves,1,1,,Tie,Tie
+Sociedad,Real Madrid,0,3,,Lost,Real Madrid
+Sp Gijon,Ath Bilbao,2,1,,Sp Gijon,Lost
+Celta,Leganes,0,1,,Lost,Leganes
+Valencia,Las Palmas,2,4,,Lost,Las Palmas
+Betis,La Coruna,0,0,,Tie,Tie
+Espanol,Malaga,2,2,,Tie,Tie
+Eibar,Valencia,1,0,,Eibar,Lost
+Leganes,Ath Madrid,0,0,,Tie,Tie
+Osasuna,Sociedad,0,2,,Lost,Sociedad
+Real Madrid,Celta,2,1,,Real Madrid,Lost
+Alaves,Sp Gijon,0,0,,Tie,Tie
+Ath Bilbao,Barcelona,0,1,,Lost,Barcelona
+Las Palmas,Granada,5,1,,Las Palmas,Lost
+Villarreal,Sevilla,0,0,,Tie,Tie
+Sociedad,Espanol,1,1,,Tie,Tie
+Barcelona,Alaves,1,2,,Lost,Alaves
+Celta,Ath Madrid,0,4,,Lost,Ath Madrid
+Malaga,Villarreal,0,2,,Lost,Villarreal
+Real Madrid,Osasuna,5,2,,Real Madrid,Lost
+Sevilla,Las Palmas,2,1,,Sevilla,Lost
+Granada,Eibar,1,2,,Lost,Eibar
+La Coruna,Ath Bilbao,0,1,,Lost,Ath Bilbao
+Sp Gijon,Leganes,2,1,,Sp Gijon,Lost
+Valencia,Betis,2,3,,Lost,Betis
+Betis,Granada,2,2,,Tie,Tie
+Ath Madrid,Sp Gijon,5,0,,Ath Madrid,Lost
+Eibar,Sevilla,1,1,,Tie,Tie
+Las Palmas,Malaga,1,0,,Las Palmas,Lost
+Leganes,Barcelona,1,5,,Lost,Barcelona
+Ath Bilbao,Valencia,2,1,,Ath Bilbao,Lost
+Espanol,Real Madrid,0,2,,Lost,Real Madrid
+Osasuna,Celta,0,0,,Tie,Tie
+Villarreal,Sociedad,2,1,,Villarreal,Lost
+Alaves,La Coruna,0,0,,Tie,Tie
+Malaga,Eibar,2,1,,Malaga,Lost
+Sevilla,Betis,1,0,,Sevilla,Lost
+Barcelona,Ath Madrid,1,1,,Tie,Tie
+Celta,Sp Gijon,2,1,,Celta,Lost
+Granada,Ath Bilbao,1,2,,Lost,Ath Bilbao
+Real Madrid,Villarreal,1,1,,Tie,Tie
+Sociedad,Las Palmas,4,1,,Sociedad,Lost
+La Coruna,Leganes,1,2,,Lost,Leganes
+Osasuna,Espanol,1,2,,Lost,Espanol
+Valencia,Alaves,2,1,,Valencia,Lost
+Betis,Malaga,1,0,,Betis,Lost
+Ath Bilbao,Sevilla,3,1,,Ath Bilbao,Lost
+Eibar,Sociedad,2,0,,Eibar,Lost
+Las Palmas,Real Madrid,2,2,,Tie,Tie
+Sp Gijon,Barcelona,0,5,,Lost,Barcelona
+Ath Madrid,La Coruna,1,0,,Ath Madrid,Lost
+Espanol,Celta,0,2,,Lost,Celta
+Leganes,Valencia,1,2,,Lost,Valencia
+Villarreal,Osasuna,3,1,,Villarreal,Lost
+Alaves,Granada,3,1,,Alaves,Lost
+Sociedad,Betis,1,0,,Sociedad,Lost
+Granada,Leganes,0,1,,Lost,Leganes
+La Coruna,Sp Gijon,2,1,,La Coruna,Lost
+Osasuna,Las Palmas,2,2,,Tie,Tie
+Sevilla,Alaves,2,1,,Sevilla,Lost
+Celta,Barcelona,4,3,,Celta,Lost
+Espanol,Villarreal,0,0,,Tie,Tie
+Malaga,Ath Bilbao,2,1,,Malaga,Lost
+Real Madrid,Eibar,1,1,,Tie,Tie
+Valencia,Ath Madrid,0,2,,Lost,Ath Madrid
+Las Palmas,Espanol,0,0,,Tie,Tie
+Ath Madrid,Granada,7,1,,Ath Madrid,Lost
+Barcelona,La Coruna,4,0,,Barcelona,Lost
+Betis,Real Madrid,1,6,,Lost,Real Madrid
+Leganes,Sevilla,2,3,,Lost,Sevilla
+Alaves,Malaga,1,1,,Tie,Tie
+Ath Bilbao,Sociedad,3,2,,Ath Bilbao,Lost
+Sp Gijon,Valencia,1,2,,Lost,Valencia
+Villarreal,Celta,5,0,,Villarreal,Lost
+Eibar,Osasuna,2,3,,Lost,Osasuna
+Osasuna,Betis,1,2,,Lost,Betis
+Espanol,Eibar,3,3,,Tie,Tie
+Granada,Sp Gijon,0,0,,Tie,Tie
+Sociedad,Alaves,3,0,,Sociedad,Lost
+Valencia,Barcelona,2,3,,Lost,Barcelona
+Celta,La Coruna,4,1,,Celta,Lost
+Malaga,Leganes,4,0,,Malaga,Lost
+Real Madrid,Ath Bilbao,2,1,,Real Madrid,Lost
+Sevilla,Ath Madrid,1,0,,Sevilla,Lost
+Villarreal,Las Palmas,2,1,,Villarreal,Lost
+Leganes,Sociedad,0,2,,Lost,Sociedad
+Alaves,Real Madrid,1,4,,Lost,Real Madrid
+Ath Madrid,Malaga,4,2,,Ath Madrid,Lost
+Barcelona,Granada,1,0,,Barcelona,Lost
+Sp Gijon,Sevilla,1,1,,Tie,Tie
+Ath Bilbao,Osasuna,1,1,,Tie,Tie
+Betis,Espanol,0,1,,Lost,Espanol
+Eibar,Villarreal,2,1,,Eibar,Lost
+Las Palmas,Celta,3,3,,Tie,Tie
+La Coruna,Valencia,1,1,,Tie,Tie
+Malaga,Sp Gijon,3,2,,Malaga,Lost
+Granada,La Coruna,1,1,,Tie,Tie
+Las Palmas,Eibar,1,0,,Las Palmas,Lost
+Osasuna,Alaves,0,1,,Lost,Alaves
+Sociedad,Ath Madrid,2,0,,Sociedad,Lost
+Celta,Valencia,2,1,,Celta,Lost
+Espanol,Ath Bilbao,0,0,,Tie,Tie
+Real Madrid,Leganes,3,0,,Real Madrid,Lost
+Sevilla,Barcelona,1,2,,Lost,Barcelona
+Villarreal,Betis,2,0,,Villarreal,Lost
+Betis,Las Palmas,2,0,,Betis,Lost
+Ath Madrid,Real Madrid,0,3,,Lost,Real Madrid
+Barcelona,Malaga,0,0,,Tie,Tie
+Eibar,Celta,1,0,,Eibar,Lost
+La Coruna,Sevilla,2,3,,Lost,Sevilla
+Alaves,Espanol,0,1,,Lost,Espanol
+Ath Bilbao,Villarreal,1,0,,Ath Bilbao,Lost
+Sp Gijon,Sociedad,1,3,,Lost,Sociedad
+Valencia,Granada,1,1,,Tie,Tie
+Leganes,Osasuna,2,0,,Leganes,Lost
+Eibar,Betis,3,1,,Eibar,Lost
+Espanol,Leganes,3,0,,Espanol,Lost
+Malaga,La Coruna,4,3,,Malaga,Lost
+Real Madrid,Sp Gijon,2,1,,Real Madrid,Lost
+Sevilla,Valencia,2,1,,Sevilla,Lost
+Celta,Granada,3,1,,Celta,Lost
+Osasuna,Ath Madrid,0,3,,Lost,Ath Madrid
+Sociedad,Barcelona,1,1,,Tie,Tie
+Villarreal,Alaves,0,2,,Lost,Alaves
+Las Palmas,Ath Bilbao,3,1,,Las Palmas,Lost
+Ath Madrid,Espanol,0,0,,Tie,Tie
+Barcelona,Real Madrid,1,1,,Tie,Tie
+Granada,Sevilla,2,1,,Granada,Lost
+Leganes,Villarreal,0,0,,Tie,Tie
+Alaves,Las Palmas,1,1,,Tie,Tie
+Ath Bilbao,Eibar,3,1,,Ath Bilbao,Lost
+Betis,Celta,3,3,,Tie,Tie
+Sp Gijon,Osasuna,3,1,,Sp Gijon,Lost
+Valencia,Malaga,2,2,,Tie,Tie
+La Coruna,Sociedad,5,1,,La Coruna,Lost
+Malaga,Granada,1,1,,Tie,Tie
+Las Palmas,Leganes,1,1,,Tie,Tie
+Osasuna,Barcelona,0,3,,Lost,Barcelona
+Real Madrid,La Coruna,3,2,,Real Madrid,Lost
+Sociedad,Valencia,3,2,,Sociedad,Lost
+Betis,Ath Bilbao,1,0,,Betis,Lost
+Celta,Sevilla,0,3,,Lost,Sevilla
+Eibar,Alaves,0,0,,Tie,Tie
+Espanol,Sp Gijon,2,1,,Espanol,Lost
+Villarreal,Ath Madrid,3,0,,Villarreal,Lost
+Alaves,Betis,1,0,,Alaves,Lost
+Ath Madrid,Las Palmas,1,0,,Ath Madrid,Lost
+Granada,Sociedad,0,2,,Lost,Sociedad
+Sevilla,Malaga,4,1,,Sevilla,Lost
+Sp Gijon,Villarreal,1,3,,Lost,Villarreal
+Barcelona,Espanol,4,1,,Barcelona,Lost
+La Coruna,Osasuna,2,0,,La Coruna,Lost
+Leganes,Eibar,1,1,,Tie,Tie
+Ath Bilbao,Celta,2,1,,Ath Bilbao,Lost
+Espanol,La Coruna,1,1,,Tie,Tie
+Eibar,Ath Madrid,0,2,,Lost,Ath Madrid
+Las Palmas,Sp Gijon,1,0,,Las Palmas,Lost
+Real Madrid,Granada,5,0,,Real Madrid,Lost
+Sociedad,Sevilla,0,4,,Lost,Sevilla
+Ath Bilbao,Alaves,0,0,,Tie,Tie
+Betis,Leganes,2,0,,Betis,Lost
+Celta,Malaga,3,1,,Celta,Lost
+Villarreal,Barcelona,1,1,,Tie,Tie
+Osasuna,Valencia,3,3,,Tie,Tie
+Ath Madrid,Betis,1,0,,Ath Madrid,Lost
+Barcelona,Las Palmas,5,0,,Barcelona,Lost
+La Coruna,Villarreal,0,0,,Tie,Tie
+Leganes,Ath Bilbao,0,0,,Tie,Tie
+Celta,Alaves,1,0,,Celta,Lost
+Granada,Osasuna,1,1,,Tie,Tie
+Sevilla,Real Madrid,2,1,,Sevilla,Lost
+Sp Gijon,Eibar,2,3,,Lost,Eibar
+Valencia,Espanol,2,1,,Valencia,Lost
+Malaga,Sociedad,0,2,,Lost,Sociedad
+Las Palmas,La Coruna,1,1,,Tie,Tie
+Alaves,Leganes,2,2,,Tie,Tie
+Espanol,Granada,3,1,,Espanol,Lost
+Real Madrid,Malaga,2,1,,Real Madrid,Lost
+Villarreal,Valencia,0,2,,Lost,Valencia
+Ath Bilbao,Ath Madrid,2,2,,Tie,Tie
+Betis,Sp Gijon,0,0,,Tie,Tie
+Eibar,Barcelona,0,4,,Lost,Barcelona
+Osasuna,Sevilla,3,4,,Lost,Sevilla
+Sociedad,Celta,1,0,,Sociedad,Lost
+Osasuna,Malaga,1,1,,Tie,Tie
+Alaves,Ath Madrid,0,0,,Tie,Tie
+Eibar,La Coruna,3,1,,Eibar,Lost
+Leganes,Celta,0,2,,Lost,Celta
+Villarreal,Granada,2,0,,Villarreal,Lost
+Ath Bilbao,Sp Gijon,2,1,,Ath Bilbao,Lost
+Betis,Barcelona,1,1,,Tie,Tie
+Espanol,Sevilla,3,1,,Espanol,Lost
+Real Madrid,Sociedad,3,0,,Real Madrid,Lost
+Las Palmas,Valencia,3,1,,Las Palmas,Lost
+Ath Madrid,Leganes,2,0,,Ath Madrid,Lost
+Barcelona,Ath Bilbao,3,0,,Barcelona,Lost
+Malaga,Espanol,0,1,,Lost,Espanol
+Valencia,Eibar,0,4,,Lost,Eibar
+Sevilla,Villarreal,0,0,,Tie,Tie
+Sociedad,Osasuna,3,2,,Sociedad,Lost
+Sp Gijon,Alaves,2,4,,Lost,Alaves
+Granada,Las Palmas,1,0,,Granada,Lost
+Espanol,Sociedad,1,2,,Lost,Sociedad
+Alaves,Barcelona,0,6,,Lost,Barcelona
+Ath Bilbao,La Coruna,2,1,,Ath Bilbao,Lost
+Betis,Valencia,0,0,,Tie,Tie
+Osasuna,Real Madrid,1,3,,Lost,Real Madrid
+Ath Madrid,Celta,3,2,,Ath Madrid,Lost
+Las Palmas,Sevilla,0,1,,Lost,Sevilla
+Leganes,Sp Gijon,0,2,,Lost,Sp Gijon
+Villarreal,Malaga,1,1,,Tie,Tie
+Eibar,Granada,4,0,,Eibar,Lost
+Granada,Betis,4,1,,Granada,Lost
+La Coruna,Alaves,0,1,,Lost,Alaves
+Real Madrid,Espanol,2,0,,Real Madrid,Lost
+Sevilla,Eibar,2,0,,Sevilla,Lost
+Sp Gijon,Ath Madrid,1,4,,Lost,Ath Madrid
+Barcelona,Leganes,2,1,,Barcelona,Lost
+Celta,Osasuna,3,0,,Celta,Lost
+Sociedad,Villarreal,0,1,,Lost,Villarreal
+Valencia,Ath Bilbao,2,0,,Valencia,Lost
+Malaga,Las Palmas,2,1,,Malaga,Lost
+Valencia,Real Madrid,2,1,,Valencia,Lost
+Las Palmas,Sociedad,0,1,,Lost,Sociedad
+Alaves,Valencia,2,1,,Alaves,Lost
+Betis,Sevilla,1,2,,Lost,Sevilla
+Eibar,Malaga,3,0,,Eibar,Lost
+Leganes,La Coruna,4,0,,Leganes,Lost
+Ath Bilbao,Granada,3,1,,Ath Bilbao,Lost
+Ath Madrid,Barcelona,1,2,,Lost,Barcelona
+Espanol,Osasuna,3,0,,Espanol,Lost
+Sp Gijon,Celta,1,1,,Tie,Tie
+Villarreal,Real Madrid,2,3,,Lost,Real Madrid
+Malaga,Betis,1,2,,Lost,Betis
+Sociedad,Eibar,2,2,,Tie,Tie
+Valencia,Leganes,1,0,,Valencia,Lost
+Barcelona,Sp Gijon,6,1,,Barcelona,Lost
+Celta,Espanol,2,2,,Tie,Tie
+Granada,Alaves,2,1,,Granada,Lost
+Osasuna,Villarreal,1,4,,Lost,Villarreal
+Real Madrid,Las Palmas,3,3,,Tie,Tie
+La Coruna,Ath Madrid,1,1,,Tie,Tie
+Sevilla,Ath Bilbao,1,0,,Sevilla,Lost
+Betis,Sociedad,2,3,,Lost,Sociedad
+Barcelona,Celta,5,0,,Barcelona,Lost
+Eibar,Real Madrid,1,4,,Lost,Real Madrid
+Leganes,Granada,1,0,,Leganes,Lost
+Villarreal,Espanol,2,0,,Villarreal,Lost
+Ath Bilbao,Malaga,1,0,,Ath Bilbao,Lost
+Ath Madrid,Valencia,3,0,,Ath Madrid,Lost
+Las Palmas,Osasuna,5,2,,Las Palmas,Lost
+Sp Gijon,La Coruna,0,1,,Lost,La Coruna
+Alaves,Sevilla,1,1,,Tie,Tie
+La Coruna,Betis,1,1,,Tie,Tie
+Espanol,Las Palmas,4,3,,Espanol,Lost
+Granada,Ath Madrid,0,1,,Lost,Ath Madrid
+Malaga,Alaves,1,2,,Lost,Alaves
+Sevilla,Leganes,1,1,,Tie,Tie
+Valencia,Sp Gijon,1,1,,Tie,Tie
+Celta,Villarreal,0,1,,Lost,Villarreal
+La Coruna,Barcelona,2,1,,La Coruna,Lost
+Real Madrid,Betis,2,1,,Real Madrid,Lost
+Sociedad,Ath Bilbao,0,2,,Lost,Ath Bilbao
+Osasuna,Eibar,1,1,,Tie,Tie
+Las Palmas,Villarreal,1,0,,Las Palmas,Lost
+Alaves,Sociedad,1,0,,Alaves,Lost
+Ath Bilbao,Real Madrid,1,2,,Lost,Real Madrid
+Betis,Osasuna,2,0,,Betis,Lost
+Eibar,Espanol,1,1,,Tie,Tie
+Ath Madrid,Sevilla,3,1,,Ath Madrid,Lost
+Barcelona,Valencia,4,2,,Barcelona,Lost
+La Coruna,Celta,0,1,,Lost,Celta
+Leganes,Malaga,0,0,,Tie,Tie
+Sp Gijon,Granada,3,1,,Sp Gijon,Lost
+Espanol,Betis,2,1,,Espanol,Lost
+Malaga,Ath Madrid,0,2,,Lost,Ath Madrid
+Osasuna,Ath Bilbao,1,2,,Lost,Ath Bilbao
+Sociedad,Leganes,1,1,,Tie,Tie
+Villarreal,Eibar,2,3,,Lost,Eibar
+Granada,Barcelona,1,4,,Lost,Barcelona
+Real Madrid,Alaves,3,0,,Real Madrid,Lost
+Sevilla,Sp Gijon,0,0,,Tie,Tie
+Valencia,La Coruna,3,0,,Valencia,Lost
+Celta,Las Palmas,3,1,,Celta,Lost
+Ath Bilbao,Espanol,2,0,,Ath Bilbao,Lost
+Ath Madrid,Sociedad,1,0,,Ath Madrid,Lost
+Betis,Villarreal,0,1,,Lost,Villarreal
+Alaves,Osasuna,0,1,,Lost,Osasuna
+Barcelona,Sevilla,3,0,,Barcelona,Lost
+La Coruna,Granada,0,0,,Tie,Tie
+Leganes,Real Madrid,2,4,,Lost,Real Madrid
+Sp Gijon,Malaga,0,1,,Lost,Malaga
+Eibar,Las Palmas,3,1,,Eibar,Lost
+Valencia,Celta,3,2,,Valencia,Lost
+Villarreal,Ath Bilbao,3,1,,Villarreal,Lost
+Espanol,Alaves,1,0,,Espanol,Lost
+Malaga,Barcelona,2,0,,Malaga,Lost
+Real Madrid,Ath Madrid,1,1,,Tie,Tie
+Sevilla,La Coruna,4,2,,Sevilla,Lost
+Celta,Eibar,0,2,,Lost,Eibar
+Granada,Valencia,1,3,,Lost,Valencia
+Las Palmas,Betis,4,1,,Las Palmas,Lost
+Osasuna,Leganes,2,1,,Osasuna,Lost
+Sociedad,Sp Gijon,3,1,,Sociedad,Lost
+Ath Bilbao,Las Palmas,5,1,,Ath Bilbao,Lost
+Ath Madrid,Osasuna,3,0,,Ath Madrid,Lost
+Barcelona,Sociedad,3,2,,Barcelona,Lost
+La Coruna,Malaga,2,0,,La Coruna,Lost
+Sp Gijon,Real Madrid,2,3,,Lost,Real Madrid
+Betis,Eibar,2,0,,Betis,Lost
+Granada,Celta,0,3,,Lost,Celta
+Leganes,Espanol,0,1,,Lost,Espanol
+Valencia,Sevilla,0,0,,Tie,Tie
+Alaves,Villarreal,2,1,,Alaves,Lost
+Sevilla,Granada,2,0,,Sevilla,Lost
+Espanol,Ath Madrid,0,1,,Lost,Ath Madrid
+Malaga,Valencia,2,0,,Malaga,Lost
+Osasuna,Sp Gijon,2,2,,Tie,Tie
+Villarreal,Leganes,2,1,,Villarreal,Lost
+Celta,Betis,0,1,,Lost,Betis
+Las Palmas,Alaves,1,1,,Tie,Tie
+Real Madrid,Barcelona,2,3,,Lost,Barcelona
+Sociedad,La Coruna,1,0,,Sociedad,Lost
+Eibar,Ath Bilbao,0,1,,Lost,Ath Bilbao
+Ath Madrid,Villarreal,0,1,,Lost,Villarreal
+Granada,Malaga,0,2,,Lost,Malaga
+Sp Gijon,Espanol,1,1,,Tie,Tie
+Barcelona,Osasuna,7,1,,Barcelona,Lost
+La Coruna,Real Madrid,2,6,,Lost,Real Madrid
+Leganes,Las Palmas,3,0,,Leganes,Lost
+Valencia,Sociedad,2,3,,Lost,Sociedad
+Alaves,Eibar,0,0,,Tie,Tie
+Ath Bilbao,Betis,2,1,,Ath Bilbao,Lost
+Sevilla,Celta,2,1,,Sevilla,Lost
+Villarreal,Sp Gijon,3,1,,Villarreal,Lost
+Espanol,Barcelona,0,3,,Lost,Barcelona
+Las Palmas,Ath Madrid,0,5,,Lost,Ath Madrid
+Real Madrid,Valencia,2,1,,Real Madrid,Lost
+Sociedad,Granada,2,1,,Sociedad,Lost
+Betis,Alaves,1,4,,Lost,Alaves
+Celta,Ath Bilbao,0,3,,Lost,Ath Bilbao
+Eibar,Leganes,2,0,,Eibar,Lost
+Osasuna,La Coruna,2,2,,Tie,Tie
+Malaga,Sevilla,4,2,,Malaga,Lost
+Sevilla,Sociedad,1,1,,Tie,Tie
+Ath Madrid,Eibar,1,0,,Ath Madrid,Lost
+Barcelona,Villarreal,4,1,,Barcelona,Lost
+Granada,Real Madrid,0,4,,Lost,Real Madrid
+Sp Gijon,Las Palmas,1,0,,Sp Gijon,Lost
+Alaves,Ath Bilbao,1,0,,Alaves,Lost
+La Coruna,Espanol,1,2,,Lost,Espanol
+Malaga,Celta,3,0,,Malaga,Lost
+Valencia,Osasuna,4,1,,Valencia,Lost
+Leganes,Betis,4,0,,Leganes,Lost
+Espanol,Valencia,0,1,,Lost,Valencia
+Osasuna,Granada,2,1,,Osasuna,Lost
+Alaves,Celta,3,1,,Alaves,Lost
+Ath Bilbao,Leganes,1,1,,Tie,Tie
+Betis,Ath Madrid,1,1,,Tie,Tie
+Eibar,Sp Gijon,0,1,,Lost,Sp Gijon
+Las Palmas,Barcelona,1,4,,Lost,Barcelona
+Real Madrid,Sevilla,4,1,,Real Madrid,Lost
+Sociedad,Malaga,2,2,,Tie,Tie
+Villarreal,La Coruna,0,0,,Tie,Tie
+Celta,Real Madrid,1,4,,Lost,Real Madrid
+Granada,Espanol,1,2,,Lost,Espanol
+La Coruna,Las Palmas,3,0,,La Coruna,Lost
+Leganes,Alaves,1,1,,Tie,Tie
+Sevilla,Osasuna,5,0,,Sevilla,Lost
+Sp Gijon,Betis,2,2,,Tie,Tie
+Ath Madrid,Ath Bilbao,3,1,,Ath Madrid,Lost
+Barcelona,Eibar,4,2,,Barcelona,Lost
+Celta,Sociedad,2,2,,Tie,Tie
+Malaga,Real Madrid,0,2,,Lost,Real Madrid
+Valencia,Villarreal,1,3,,Lost,Villarreal
